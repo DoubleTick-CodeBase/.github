@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/15f915d4-7d0c-4146-8c80-2548d308b499" />
+  <img src="https://github.com/user-attachments/assets/a4e38420-e66a-438c-97a6-a616b715b74e" />
 </p>
 
 # Double Tick
